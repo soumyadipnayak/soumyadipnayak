@@ -3,6 +3,7 @@
 
 # Include required files
 !.gitignore
+!ATS_Friendly/
 !Resume.tex
 !Resume.pdf
 !readme.md
