@@ -29,7 +29,7 @@ I have completed my <b>Bachelor in Science (Hounours)</b> degree in <b>Mathemati
 I enjoy traveling, socializing, exploring new delicacies, and listening to music
 
 ## <img align="center" height="25px" src="https://cdn-icons-png.flaticon.com/512/10015/10015030.png"/> My summary
-<a href="https://raw.githubusercontent.com/bubai2000/bubai2000/main/Resume/Resume.pdf"><img align="center" height="40px" src="https://cdn-icons-png.flaticon.com/512/3135/3135689.png"/></a></a>
+<a href="https://raw.githubusercontent.com/soumyadipnayak/soumyadipnayak/main/Resume/Resume.pdf"><img align="center" height="40px" src="https://cdn-icons-png.flaticon.com/512/3135/3135689.png"/></a></a>
 
 ## <img align="center" width="25px" src="https://cdn-icons-png.flaticon.com/512/17969/17969075.png"/> Connect with me
 <a href="mailto:nayaksoumyadip@gmail.com"><img align="center" width="45px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a> &ensp; <a href="https://www.linkedin.com/in/soumyadip-nayak/"><img align="center" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
